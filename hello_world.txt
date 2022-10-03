@@ -1,3 +1,2 @@
 Hello everyone this is my first github repo
-
 I am learning Web Development from TheOdinProject
